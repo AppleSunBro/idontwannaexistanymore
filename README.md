@@ -1,5 +1,5 @@
 # idontwannaexistanymore
 this is the end of the line, so thank you for coming alone
-there is no way to add damn picture you know?
-# ***gonna get you***
-# **not soo fast**
+# ![alt text](idontwannaexistanymore/____1.png "Описание будет тут")
+# how do i put this...
+# nah its dont work...
